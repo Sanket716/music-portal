@@ -1,0 +1,51 @@
+body{
+	     overflow-x: hidden;
+       overflow-y: scroll;
+}
+.r1div{
+
+	height: 70px;
+}
+ .carousel-inner img {
+      width: 100%;
+      height: 450px;
+  }
+  .carousel1{
+    width: 100%;
+  }
+ 
+  .cardimg{
+    height: 200px;
+  }
+  audio
+  {
+    width: 200px;
+    display: block;
+
+  }
+@media (max-width: 544px) {  
+  .font1 {font-size:1.5rem;} 
+  
+}
+@media (max-width: 1120px) and (min-width: 990px) {  
+
+  audio{
+    display: block;
+    width: 50px;
+    margin-left: -22px;
+  }
+  
+  
+}
+@media (max-width: 750px) and (min-width: 580px) {  
+
+  audio{
+    display: block;
+    width: 50px;
+    margin-left: -22px;
+  }
+  
+  
+}
+
+
